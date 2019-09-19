@@ -25,3 +25,12 @@ public class Books {
         }
     }
 }
+
+class Solution {
+
+    public static void main(String[] args) {
+        Books b = new Books();
+        b.display();
+
+    }
+}
